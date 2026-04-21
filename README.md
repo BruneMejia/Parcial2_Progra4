@@ -4,6 +4,9 @@ Freddy Samuel Vasquez Alvares
 Madeline Brunella Mejia Mejia
 Francisca Del Carmen Bonilla Argueta
 
+CREDENCIALES DEL LOGIN:
+  -Correo:admin@cinemark.com
+  -Contraseña:123456
 
 
 Preguntas
